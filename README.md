@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/xHJMOUZkNLnLai4nvM/giphy.gif"  />
+  <img height="200" width="900" src="https://media.giphy.com/media/xHJMOUZkNLnLai4nvM/giphy.gif"  />
 </div>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rohanl1" height="150" width="400" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rohanl1" height="150" width="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rohanl1" height="150" width="400" alt="languages graph"  />
 </div>
 
 
