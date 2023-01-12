@@ -1,4 +1,4 @@
-<img src="[https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966](https://media.giphy.com/media/5WEGgQuanes3w5on7O/giphy.gif)" alt="👋 Hi there! I'm Rohan" title="👋 Hi there! I'm Rohan"/>
+<img src="https://media.giphy.com/media/5WEGgQuanes3w5on7O/giphy.gif" alt="👋 Hi there! I'm Rohan" title="👋 Hi there! I'm Rohan"/>
 
 <div align="justify">
 
@@ -56,6 +56,3 @@ Welcome to my Github!<br><br>I am Rohan Lagare, a graduate student in Computer S
 
 ###
 
-
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
