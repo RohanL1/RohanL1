@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/5WEGgQuanes3w5on7O/giphy.gif" alt="👋 Hi there! I'm Rohan" title="👋 Hi there! I'm Rohan"/>
-
+<!-- <img src="https://media.giphy.com/media/5WEGgQuanes3w5on7O/giphy.gif" alt="👋 Hi there! I'm Rohan" title="👋 Hi there! I'm Rohan"/> -->
+<h1>👋 Hi there! I'm Rohan</h1>
 <div align="justify">
 
 <div align="left">
