@@ -43,9 +43,3 @@ Welcome to my Github!<br><br>I am Rohan Lagare, a graduate student in Computer S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
 </div>
 
-
-## Github stats 📊 
-
-
-###
-
