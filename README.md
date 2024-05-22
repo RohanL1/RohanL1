@@ -17,7 +17,7 @@
 Welcome to my Github!<br><br>I am Rohan Lagare, a graduate student in Computer Science and Engineering at Santa Clara University, CA, and I have over three years of experience as a data engineer. <br><br>On my Github, you can find a variety of projects that showcase my abilities and experience. From data processing and analysis projects, to software development projects using languages like C++, Python, JavaScript and Java, as well as some machine learning projects such as predictive modeling, computer vision and natural language processing.<br><br>Please take a look at my portfolio and feel free to contact me for any inquiry or collaboration opportunity.
 
 </p>
-<a href='https://rohan-lagare.vercel.app/'> Portfolio Site </a>
+<a href='https://rohanl1.github.io/'> Portfolio Site </a>
 
 ## My favorite tools and technologies ⚙️ 
 
